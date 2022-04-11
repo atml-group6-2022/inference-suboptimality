@@ -1,0 +1,6 @@
+jax
+matplotlib
+numpy
+scipy
+tqdm
+jupyter
